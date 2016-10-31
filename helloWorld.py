@@ -21,3 +21,5 @@ print classifier.predict([[160,0]]) # 160 grams AND bumpy
 
 # answer will be [1] for orange !
 
+#Source : youtube - google developpers - Josh Gordon
+
