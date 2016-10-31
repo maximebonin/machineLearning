@@ -5,8 +5,11 @@ from sklearn import tree
 # this program is based on the iris dataset. It removes three(3) entries
 # from the dataset for testing purposes. It prints the testing targets.
 # Then it prints the prediction for the targets. They match !
-# Finally, the programm creates a PDF document where we can see
-# the actual decision tree. Fascinating !!!
+# Then, the programm creates a PDF document where we can see
+# the actual decision tree.
+# Finally, we print datas from the test case and follow
+# the decision tree to see what kind of flower it is
+# Fascinating !!!
 # requirements : Pydotplus and graphviz installed.
 
 # load dataset
